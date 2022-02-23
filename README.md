@@ -59,36 +59,22 @@ your_folder/
 │
 └───TennisBallCollector/
 │   └───compute_trajectory/
-|   |   └───naolibs/
-|   |   └───naoqi-sdk-2.1.4.13-linux64/
-|   |   └───pynaoqi-python2.7-2.1.4.13-linux64/
-|   |   └───V-REP_PRO_EDU_V3_6_2_Ubuntu18_04/
-│   |    │   vrep.sh
-│   |    │   ...
 |   |
 |   └───docs/
-|   |   └───py/
-|   |   └───scenes/
 |   |
 |   └───interfaces/
 |   |   └───mgs/  *Messages personalisés*
-|   |   └───naosimimgs/
 |   |
-|   └───reports/
-|   |   └───py/
-|   |   └───scenes/
+|   └───reports/  *Rapports PO*
 │   |
 └───ressources/
-|   |
 │   |
 └───roblochon_gazebo/
-|   |
 │   |
 └───robochon_description/  *Description du robot*
 |   |   └───urdf/  *Scripts urdf du robot*
 │   |
 └───sam_bot_description/
-|   |
 │   |
 └───tennis_ball_collector_launch/  *Package launch*
 |   |   └───launch/  *Script launch*
@@ -96,14 +82,10 @@ your_folder/
 └───tennis_ball_detector/ *Packages et fichier liès à la détection des balles*
 |   |   └───ressource/  *Scritps*
 |   |   └───tennis_ball_dectector/ *Package*
-|   |
 │   |
-└───tennis_court/
-|   |
+└───tennis_court/  *Monde de la simulation*
 │   |
-└───vadrouilleur_description/
-|   |
-│   |
+
 ```
 ### Package `tennis_court`
 
