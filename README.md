@@ -84,16 +84,18 @@ your_folder/
 └───roblochon_gazebo/
 |   |
 │   |
-└───robochon_description/
-|   |
+└───robochon_description/  *Description du robot*
+|   |   └───urdf/  *Scripts urdf du robot*
 │   |
 └───sam_bot_description/
 |   |
 │   |
-└───tennis_ball_collector_launch/
+└───tennis_ball_collector_launch/  *Package launch*
+|   |   └───launch/  *Script launch*
 |   |
-│   |
-└───tennis_ball_detector/
+└───tennis_ball_detector/ *Packages et fichier liès à la détection des balles*
+|   |   └───ressource/  *Scritps*
+|   |   └───tennis_ball_dectector/ *Package*
 |   |
 │   |
 └───tennis_court/
