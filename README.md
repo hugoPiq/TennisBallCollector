@@ -1,6 +1,5 @@
-<img src="https://forthebadge.com/images/badges/made-with-python.svg" />
 ### Tennis Ball Collector
-
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" />
 Ceci est un template de dépôt Git pour le cours d'ingénierie système et modélisation robotique à l'ENSTA Bretagne en 2021.
 
 
